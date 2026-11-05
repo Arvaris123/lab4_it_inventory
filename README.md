@@ -1,4 +1,4 @@
-# IT Inventory API — Лабораторна робота №4, варіант 47
+# IT Inventory API — Лабораторна робота №4, варіант 48
 
 Back-end на **Flask + SQLAlchemy + MySQL** для бази даних обліку ІТ-обладнання в офісах (`it_inventory`).
 
